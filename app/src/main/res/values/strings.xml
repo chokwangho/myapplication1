@@ -1,0 +1,17 @@
+
+    <resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="strBtn1"/>
+
+    <string name="strBtn2"/>
+
+    <string name="strBtn3"/>
+
+    <string name="strBtn4"/>
+
+</resources>
